@@ -206,7 +206,7 @@ export default function Hero({ onGetStarted, onWatchStory }) {
               <video
                 ref={videoRef}
                 className="hover-scale"
-                src="/videos/barnaby.mp4"
+                src="/videos/hero-vid.mp4"
                 poster="/images/hero-img.png"
                 autoPlay
                 muted={muted}
