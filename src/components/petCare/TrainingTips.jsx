@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Award, Compass, Heart, Check, Volume2, Sparkles, CheckCircle2 } from 'lucide-react';
+import { useState } from 'react';
+import { Award, Compass, Heart, Volume2, Sparkles } from 'lucide-react';
 import trainingData from '../../data/trainingTips.json';
 import SectionHeading from '../common/SectionHeading';
 

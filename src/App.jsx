@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
 import './styles/variables.css';
 import './styles/globals.css';
 import './styles/animations.css';
@@ -37,7 +37,7 @@ import PawPulse from "./components/PawPulse/PawPulse";
 
 // Hooks & Data
 import { useLocalStorage } from './hooks/useLocalStorage';
-import { Calendar, Heart, Stethoscope, Sparkles, CheckCircle2, ArrowRight } from 'lucide-react';
+import { Calendar, CheckCircle2, ArrowRight } from 'lucide-react';
 
 export default function App() {
   // Splash entrance state (shown once on initial visit)

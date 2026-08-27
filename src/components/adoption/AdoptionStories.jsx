@@ -1,5 +1,4 @@
-import React from 'react';
-import { Heart, Quote, Sparkles, MapPin, Calendar } from 'lucide-react';
+import { Quote } from 'lucide-react';
 import storiesData from '../../data/adoptionStories.json';
 import SectionHeading from '../common/SectionHeading';
 

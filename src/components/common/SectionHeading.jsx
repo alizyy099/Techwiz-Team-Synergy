@@ -1,4 +1,3 @@
-import React from 'react';
 
 /**
  * Reusable Section Header with Category Tag, Title, and Description

@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Play, Clock, Sparkles, CheckCircle2, Scissors } from 'lucide-react';
+import { useState } from 'react';
+import { Play, Clock, CheckCircle2 } from 'lucide-react';
 import groomingData from '../../data/groomingVideos.json';
 import SectionHeading from '../common/SectionHeading';
 import Modal from '../common/Modal';

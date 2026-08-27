@@ -1,5 +1,4 @@
-import React from 'react';
-import { Bell, Clock, MapPin, Sparkles, HeartPulse, ShieldAlert } from 'lucide-react';
+import { Bell, Clock, MapPin, Sparkles, ShieldAlert } from 'lucide-react';
 import tickerData from '../../data/tickerUpdates.json';
 import { useLiveClock } from '../../hooks/useLiveClock';
 import { useGeolocation } from '../../hooks/useGeolocation';

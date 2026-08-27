@@ -1,5 +1,4 @@
-import React from 'react';
-import { Calendar, Clock, MapPin, Sparkles, ExternalLink } from 'lucide-react';
+import { Calendar, MapPin } from 'lucide-react';
 import eventsData from '../../data/events.json';
 import SectionHeading from '../common/SectionHeading';
 

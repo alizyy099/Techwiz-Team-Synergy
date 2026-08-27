@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Utensils, Calculator, Sparkles, Scale, Info, CheckCircle } from 'lucide-react';
+import { useState } from 'react';
+import { Calculator, Info, CheckCircle } from 'lucide-react';
 import feedingGuidesData from '../../data/feedingGuides.json';
 import SectionHeading from '../common/SectionHeading';
 

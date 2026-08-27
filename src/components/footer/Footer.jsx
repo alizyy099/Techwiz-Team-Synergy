@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Heart, PhoneCall, ShieldCheck, Mail, MapPin, Sparkles, ArrowUp } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Heart, PhoneCall, Sparkles, ArrowUp } from 'lucide-react';
 
 /**
  * Editorial Footer Component with Brand Promise, Quick Links, and Simulated Visitor Counter

@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { MapPin, Phone, Mail, Clock, Send, CheckCircle2, MessageSquare } from 'lucide-react';
+import { useState } from 'react';
+import { MapPin, Phone, Mail, Send, CheckCircle2 } from 'lucide-react';
 import SectionHeading from '../common/SectionHeading';
 
 /**

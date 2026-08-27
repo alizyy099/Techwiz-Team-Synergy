@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Calendar, Clock, CheckCircle2, AlertCircle, User, Info, MapPin } from 'lucide-react';
+import { useState } from 'react';
+import { Calendar, Clock, CheckCircle2 } from 'lucide-react';
 import appointmentsData from '../../data/appointments.json';
 import SectionHeading from '../common/SectionHeading';
 import Modal from '../common/Modal';

@@ -1,5 +1,4 @@
-import React from 'react';
-import { Star, ShoppingBag, Sparkles, Check } from 'lucide-react';
+import { Star, ShoppingBag, Sparkles } from 'lucide-react';
 import { formatCurrency } from '../../utils/formatters';
 
 /**

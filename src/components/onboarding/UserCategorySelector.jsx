@@ -1,4 +1,3 @@
-import React from 'react';
 import { PawPrint, Stethoscope, Building2, User, Check, Sparkles, ArrowRight } from 'lucide-react';
 
 /**

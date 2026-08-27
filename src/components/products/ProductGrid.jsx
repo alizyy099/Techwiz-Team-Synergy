@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Search, SlidersHorizontal, ArrowUpDown, ShoppingBag, Sparkles, Check } from 'lucide-react';
+import { useState } from 'react';
+import { Search, ArrowUpDown } from 'lucide-react';
 import productsData from '../../data/products.json';
 import { filterAndSortProducts } from '../../utils/filterHelpers';
 import { formatCurrency } from '../../utils/formatters';

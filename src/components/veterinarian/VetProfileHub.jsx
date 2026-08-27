@@ -1,5 +1,4 @@
-import React from 'react';
-import { Stethoscope, Award, MapPin, Phone, Mail, Star, Calendar } from 'lucide-react';
+import { Award, MapPin, Phone, Star, Calendar } from 'lucide-react';
 import vetsData from '../../data/vets.json';
 import SectionHeading from '../common/SectionHeading';
 

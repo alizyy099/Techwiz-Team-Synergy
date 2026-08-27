@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Heart, CheckCircle2, ShieldCheck, User, Mail, Home } from 'lucide-react';
+import { useState } from 'react';
+import { Heart, CheckCircle2 } from 'lucide-react';
 import Modal from '../common/Modal';
 
 /**

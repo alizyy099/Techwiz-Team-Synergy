@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Star, MessageSquare, CheckCircle2, Sparkles, Heart } from 'lucide-react';
+import { useState } from 'react';
+import { Star, MessageSquare, CheckCircle2 } from 'lucide-react';
 import SectionHeading from '../common/SectionHeading';
 
 /**

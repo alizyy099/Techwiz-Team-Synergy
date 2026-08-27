@@ -1,5 +1,4 @@
-import React from 'react';
-import { Heart, Award, ShieldCheck, Sparkles, Users, Compass, Eye } from 'lucide-react';
+import { Heart, ShieldCheck, Users, Compass } from 'lucide-react';
 import teamData from '../../data/team.json';
 import SectionHeading from '../common/SectionHeading';
 

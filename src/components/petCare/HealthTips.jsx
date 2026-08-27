@@ -1,4 +1,3 @@
-import React from 'react';
 import { ShieldCheck, Activity, AlertCircle, Sun, CheckCircle2, HeartPulse } from 'lucide-react';
 import healthTipsData from '../../data/healthTips.json';
 import SectionHeading from '../common/SectionHeading';

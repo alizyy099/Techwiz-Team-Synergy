@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { FileText, Search, Activity, Calendar, Stethoscope, HeartPulse, CheckCircle2 } from 'lucide-react';
+import { useState } from 'react';
+import { Search, Calendar } from 'lucide-react';
 import historyData from '../../data/medicalHistory.json';
 import SectionHeading from '../common/SectionHeading';
 

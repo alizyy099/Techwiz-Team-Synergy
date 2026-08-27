@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { BookOpen, Clock, Calendar, User, ArrowRight, Sparkles } from 'lucide-react';
+import { useState } from 'react';
+import { Clock, Calendar, ArrowRight } from 'lucide-react';
 import blogData from '../../data/blogPosts.json';
 import SectionHeading from '../common/SectionHeading';
 import Modal from '../common/Modal';

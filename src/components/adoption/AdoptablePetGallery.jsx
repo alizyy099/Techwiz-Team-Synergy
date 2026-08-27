@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Heart, Search, MapPin, Filter } from 'lucide-react';
 import petsData from '../../data/pets.json';
 import { filterPets } from '../../utils/filterHelpers';
