@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Puppies (2 - 12 Months)",
+    "target": "Canine Growth Stage",
+    "description": "High-protein, energy-dense nutrient ratios rich in DHA for cognitive development and balanced calcium/phosphorus for sturdy bone growth.",
+    "frequency": "3 to 4 meals daily",
+    "dailyCalorieGuide": "Approx. 55-65 kcal per lb of body weight",
+    "table": [
+      { "weight": "2 - 5 kg", "cupsPerDay": "1.0 - 1.5 cups", "calories": "350 - 520 kcal", "meals": "3-4 meals" },
+      { "weight": "5 - 10 kg", "cupsPerDay": "1.5 - 2.5 cups", "calories": "520 - 850 kcal", "meals": "3 meals" },
+      { "weight": "10 - 20 kg", "cupsPerDay": "2.5 - 4.0 cups", "calories": "850 - 1350 kcal", "meals": "2-3 meals" },
+      { "weight": "20 - 35 kg", "cupsPerDay": "4.0 - 5.5 cups", "calories": "1350 - 1900 kcal", "meals": "2 meals" }
+    ],
+    "keyNutrients": [
+      "DHA & EPA for retinal and neurological development",
+      "High quality digestible protein (min 28%)",
+      "Optimal Calcium-to-Phosphorus ratio (1.2 : 1)"
+    ],
+    "proTips": "Never feed puppy food to adult dogs continuously as high calories can cause rapid weight gain. Keep fresh clean water available 24/7."
+  },
+  {
+    "category": "Adult Dogs (1 - 7 Years)",
+    "target": "Canine Maintenance Stage",
+    "description": "Balanced macronutrients tailored to body size, daily exercise, and lean muscle preservation.",
+    "frequency": "2 meals daily (Morning & Evening)",
+    "dailyCalorieGuide": "Approx. 30-40 kcal per lb of ideal body weight",
+    "table": [
+      { "weight": "5 - 10 kg", "cupsPerDay": "1.0 - 1.75 cups", "calories": "400 - 680 kcal", "meals": "2 meals" },
+      { "weight": "10 - 25 kg", "cupsPerDay": "1.75 - 3.25 cups", "calories": "680 - 1250 kcal", "meals": "2 meals" },
+      { "weight": "25 - 40 kg", "cupsPerDay": "3.25 - 4.75 cups", "calories": "1250 - 1750 kcal", "meals": "2 meals" },
+      { "weight": "40+ kg", "cupsPerDay": "4.75+ cups (+0.5 cup per 5kg)", "calories": "1750+ kcal", "meals": "2 meals" }
+    ],
+    "keyNutrients": [
+      "Moderate protein (22-26%) and controlled fats (12-16%)",
+      "Glucosamine and chondroitin for joint cartilage preservation",
+      "Soluble prebiotic chicory root fiber for gut microbiome"
+    ],
+    "proTips": "Measure portions with a standard kitchen scale rather than eyeballing to prevent insidious weight gain."
+  },
+  {
+    "category": "Cats & Kittens (All Ages)",
+    "target": "Feline Obligate Carnivores",
+    "description": "Moisture-rich, low-carbohydrate nutrition providing essential amino acids (Taurine, Arginine) that cats cannot synthesize internally.",
+    "frequency": "Kittens: 3-4 meals | Adults: 2-3 small wet/dry combo meals",
+    "dailyCalorieGuide": "Approx. 20-30 kcal per lb of lean body weight",
+    "table": [
+      { "weight": "2 - 3 kg", "cupsPerDay": "1/3 cup dry + 1 wet pouch", "calories": "160 - 210 kcal", "meals": "2-3 meals" },
+      { "weight": "3 - 5 kg", "cupsPerDay": "1/2 cup dry + 1 wet pouch", "calories": "210 - 280 kcal", "meals": "2 meals" },
+      { "weight": "5 - 7 kg", "cupsPerDay": "2/3 cup dry + 1 wet pouch", "calories": "280 - 360 kcal", "meals": "2 meals" }
+    ],
+    "keyNutrients": [
+      "Essential Taurine for cardiac and ocular health",
+      "High moisture content (75%+) through wet food to prevent urinary FLUTD issues",
+      "Omega-6 & Omega-3 fatty acids for skin and coat luster"
+    ],
+    "proTips": "Cats have a low thirst drive. Incorporating wet canned food daily protects kidneys and urinary tract health."
+  }
+]

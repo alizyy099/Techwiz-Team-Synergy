@@ -1,0 +1,54 @@
+[
+  {
+    "id": "tip-1",
+    "category": "Oral Health",
+    "title": "Preventing Periodontal Disease: The 2-Minute Daily Habit",
+    "icon": "ShieldCheck",
+    "badge": "Preventive Care",
+    "summary": "Over 80% of dogs and 70% of cats show signs of gum disease by age three. Daily brushing adds years to their lifespan.",
+    "bullets": [
+      "Use only enzymatic pet-safe toothpaste; human fluoride toothpaste is toxic.",
+      "Focus on the outer gumline surfaces where plaque minerals deposit fastest.",
+      "Complement with veterinary-approved dental chews with the VOHC seal of acceptance."
+    ]
+  },
+  {
+    "id": "tip-2",
+    "category": "Weight Management",
+    "title": "Body Condition Scoring: Evaluating Ribs & Waistlines",
+    "icon": "Activity",
+    "badge": "Longevity",
+    "summary": "Maintaining an ideal body weight reduces arthritis severity, protects cardiac output, and lowers diabetes risks.",
+    "bullets": [
+      "You should easily feel but not see individual ribs without pressing hard.",
+      "Look from above: your pet should have an observable hourglass waistline behind the ribs.",
+      "Replace high-calorie biscuits with crunchy raw baby carrots, green beans, or dehydrated pumpkin."
+    ]
+  },
+  {
+    "id": "tip-3",
+    "category": "Common Conditions",
+    "title": "Recognizing Early Warning Signs of Dehydration & Distress",
+    "icon": "AlertCircle",
+    "badge": "Vital Signs",
+    "summary": "Knowing your pet's baseline vitals helps you act rapidly in emergency scenarios.",
+    "bullets": [
+      "Perform the 'Skin Turgor Test': gently lift skin between shoulder blades; it should snap back in <1 second.",
+      "Check gum color: healthy gums are salmon-pink and refill with color within 1.5 seconds of gentle pressure.",
+      "Normal dog resting respiratory rate is 15-30 breaths per minute; cats are 20-30 breaths per minute."
+    ]
+  },
+  {
+    "id": "tip-4",
+    "category": "Seasonal Wellness",
+    "title": "Summer Heatstroke Defense & Pavement Safety",
+    "icon": "Sun",
+    "badge": "Seasonal Alert",
+    "summary": "Pavement can reach 140°F (60°C) on an 85°F sunny day, blistering sensitive paw pads in under 60 seconds.",
+    "bullets": [
+      "Apply the 7-Second Rule: place the back of your hand on the asphalt for 7 seconds. If too hot for you, it's dangerous for paws.",
+      "Walk dogs in the early morning (before 8 AM) or late evening.",
+      "Never leave a pet unattended in a parked car, even with cracked windows."
+    ]
+  }
+]

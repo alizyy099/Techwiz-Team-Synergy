@@ -1,0 +1,74 @@
+[
+  {
+    "id": "case-1",
+    "petName": "Max",
+    "species": "Canine (Golden Retriever)",
+    "age": "3 Years",
+    "date": "2026-08-14",
+    "attendingVet": "Dr. Eleanor Vance, DVM",
+    "caseType": "Routine Wellness & Travel Certification",
+    "symptoms": "None reported. Mild seasonal pruritus noted on distal paws.",
+    "diagnosis": "Healthy adult canine with mild contact pollen allergy.",
+    "treatment": "Administered annual DHPP and Rabies booster. Prescribed topical chlorhexidine foot wipes and recommended fish-oil omega supplement.",
+    "vitals": {
+      "weight": "31.2 kg",
+      "temperature": "101.4°F",
+      "heartRate": "88 bpm"
+    },
+    "followUp": "6 months for routine dental inspection."
+  },
+  {
+    "id": "case-2",
+    "petName": "Bella",
+    "species": "Feline (Domestic Medium Hair)",
+    "age": "5 Years",
+    "date": "2026-08-02",
+    "attendingVet": "Dr. Marcus Chen, BVSc",
+    "caseType": "Dermatological Alopecia & Excessive Licking",
+    "symptoms": "Bilateral symmetrical hair loss on lower abdomen, vigorous self-grooming after meal transitions.",
+    "diagnosis": "Cutaneous Adverse Food Reaction (Chicken protein allergy).",
+    "treatment": "Initiated 8-week novel protein elimination diet (hydrolyzed salmon). Prescribed short course of oral apoquel and soothing hypoallergenic foam baths.",
+    "vitals": {
+      "weight": "4.2 kg",
+      "temperature": "100.8°F",
+      "heartRate": "160 bpm"
+    },
+    "followUp": "Re-evaluate abdominal coat regrowth in 4 weeks."
+  },
+  {
+    "id": "case-3",
+    "petName": "Milo",
+    "species": "Canine (Labrador Retriever)",
+    "age": "7 Years",
+    "date": "2026-07-28",
+    "attendingVet": "Dr. Sophia Al-Mansoor, DVM",
+    "caseType": "Geriatric Mobility & Joint Stiffness",
+    "symptoms": "Hesitation climbing stairs in morning, slower gait after moderate park exercise.",
+    "diagnosis": "Mild Bilateral Coxofemoral Osteoarthritis (Early Stage 1).",
+    "treatment": "Started monthly polysulfated glycosaminoglycan injections (Adequan) and daily glucosamine chews. Designed low-impact swimming exercise routine.",
+    "vitals": {
+      "weight": "34.0 kg",
+      "temperature": "101.1°F",
+      "heartRate": "78 bpm"
+    },
+    "followUp": "Orthopedic check and mobility score review in 60 days."
+  },
+  {
+    "id": "case-4",
+    "petName": "Charlie",
+    "species": "Canine (French Bulldog)",
+    "age": "2 Years",
+    "date": "2026-07-15",
+    "attendingVet": "Dr. Eleanor Vance, DVM",
+    "caseType": "Dietary Indiscretion & Acute Gastritis",
+    "symptoms": "Sudden vomiting after ingesting foreign table scraps, mild lethargy, normal hydration.",
+    "diagnosis": "Acute Non-Obstructive Gastritis. Abdominal radiograph clear of foreign bodies.",
+    "treatment": "Subcutaneous fluid therapy with B-complex, antiemetic injection (Cerenia), and 48-hour bland diet (boiled chicken breast and white rice).",
+    "vitals": {
+      "weight": "11.8 kg",
+      "temperature": "101.6°F",
+      "heartRate": "110 bpm"
+    },
+    "followUp": "Resolved within 48 hours. Regular diet resumed successfully."
+  }
+]

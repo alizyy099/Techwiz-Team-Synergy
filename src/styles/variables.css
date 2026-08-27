@@ -1,0 +1,131 @@
+/* ==========================================================================
+   FUREVER CARE — DESIGN TOKENS & CSS VARIABLES (2026 Refresh)
+   "Digital Lavender × Sunset Coral" — a modern, energetic, editorial palette
+   built around soft glass surfaces, gradient accents and vibrant contrast.
+   ========================================================================== */
+
+:root {
+  /* Color Palette - Surfaces & Backgrounds */
+  --color-bg: #FBF8FF;
+  --color-bg-alt: #F1EAFB;
+  --color-surface: #FFFFFF;
+  --color-surface-warm: #FFF3EE;
+  --color-surface-subtle: #EFE6FB;
+  --color-surface-soft: #F6F0FF;
+  --color-surface-card: #FFFFFF;
+  --color-surface-glass: rgba(255, 255, 255, 0.86);
+
+  /* Color Palette - Brand Typography & Accents */
+  --color-primary: #1E1240;          /* Deep Digital-Lavender Ink */
+  --color-primary-light: #352465;    /* Rich Violet */
+  --color-primary-hover: #140B2E;    /* Midnight Indigo */
+
+  --color-accent: #FF6B4A;           /* Vibrant Sunset Coral */
+  --color-accent-hover: #E8532F;     /* Deep Ember Coral */
+  --color-accent-soft: #FFF0EA;      /* Soft Peach Blush */
+  --color-accent-border: #FFD3C2;    /* Gentle Coral Border */
+
+  --color-secondary: #6C5CE7;        /* Digital Lavender (2nd brand hue) */
+  --color-secondary-soft: #F0EDFC;
+
+  --color-wellness: #12946F;         /* Emerald Teal / Health Green */
+  --color-wellness-soft: #E6F7F1;
+  --color-wellness-dark: #0C6B51;
+
+  --color-danger: #E63950;           /* Coral-Red Emergency */
+  --color-danger-soft: #FDEAEE;
+
+  --color-info: #6C5CE7;             /* Digital Lavender */
+  --color-info-soft: #F0EDFC;
+
+  --color-text: #1E1240;             /* Deep Indigo Ink */
+  --color-text-secondary: #55496F;   /* Muted Violet Gray */
+  --color-text-muted: #8B7FA6;       /* Soft Lavender Gray */
+  --color-text-light: #FBF8FF;
+
+  --color-border: #E7DCF7;           /* Soft Lavender Border */
+  --color-border-subtle: #F1E9FB;
+  --color-border-strong: #C9B8E8;
+
+  /* Gradient & Glass Tokens (new) */
+  --gradient-brand: linear-gradient(135deg, #6C5CE7 0%, #FF6B4A 100%);
+  --gradient-brand-soft: linear-gradient(135deg, rgba(108, 92, 231, 0.12) 0%, rgba(255, 107, 74, 0.12) 100%);
+  --gradient-hero-overlay: linear-gradient(180deg, rgba(20, 11, 46, 0.05) 0%, rgba(20, 11, 46, 0.85) 100%);
+  --gradient-text: linear-gradient(120deg, #6C5CE7 0%, #FF6B4A 100%);
+  --gradient-mesh: radial-gradient(38% 42% at 12% 8%, rgba(108, 92, 231, 0.22) 0%, rgba(108, 92, 231, 0) 70%),
+    radial-gradient(45% 45% at 92% 18%, rgba(255, 107, 74, 0.20) 0%, rgba(255, 107, 74, 0) 70%),
+    radial-gradient(40% 40% at 50% 100%, rgba(18, 148, 111, 0.14) 0%, rgba(18, 148, 111, 0) 70%);
+
+  --glass-bg: rgba(255, 255, 255, 0.68);
+  --glass-bg-strong: rgba(255, 255, 255, 0.86);
+  --glass-border: rgba(255, 255, 255, 0.5);
+  --glass-blur: 20px;
+
+  /* Typography Families */
+  --font-display: "DM Serif display";
+  --font-body: "manrope", sans-serif;
+
+  /* Font Sizes with Clamp */
+  --text-xs: 0.75rem;     /* 12px */
+  --text-sm: 0.875rem;    /* 14px */
+  --text-base: 1rem;       /* 16px */
+  --text-lg: 1.125rem;    /* 18px */
+  --text-xl: 1.25rem;     /* 20px */
+  --text-2xl: clamp(1.35rem, 2vw, 1.625rem);
+  --text-3xl: clamp(1.65rem, 2.5vw, 2rem);
+  --text-4xl: clamp(2rem, 3.2vw, 2.625rem);
+  --text-5xl: clamp(2.5rem, 4.5vw, 3.5rem);
+  --text-hero: clamp(2.75rem, 5.5vw, 4.25rem);
+
+  /* Spacing Scale */
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+  --space-24: 6rem;     /* 96px */
+
+  /* Border Radii */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-xl: 32px;
+  --radius-2xl: 44px;
+  --radius-full: 9999px;
+
+  /* Shadows (Soft & Editorial, tinted with brand hue) */
+  --shadow-xs: 0 1px 3px rgba(30, 18, 64, 0.05);
+  --shadow-sm: 0 4px 14px rgba(30, 18, 64, 0.07);
+  --shadow-md: 0 10px 26px rgba(30, 18, 64, 0.09);
+  --shadow-lg: 0 18px 40px rgba(30, 18, 64, 0.13);
+  --shadow-xl: 0 26px 54px rgba(30, 18, 64, 0.16);
+  --shadow-warm: 0 14px 32px rgba(255, 107, 74, 0.28);
+  --shadow-card: 0 10px 30px rgba(30, 18, 64, 0.08);
+  --shadow-hover: 0 22px 44px rgba(30, 18, 64, 0.16);
+  --shadow-glow: 0 0 0 1px rgba(108, 92, 231, 0.12), 0 18px 40px rgba(108, 92, 231, 0.22);
+
+  /* Transitions */
+  --transition-fast: 160ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-normal: 280ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow: 450ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-spring: 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* Layout Max Widths */
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1240px;
+  --container-2xl: 1400px;
+
+  /* Mobile app-shell chrome */
+  --bottom-nav-height: 68px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-top: env(safe-area-inset-top, 0px);
+}

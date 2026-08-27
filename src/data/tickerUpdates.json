@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tick-1",
+    "type": "alert",
+    "text": "24/7 Pet Poison Helpline: (888) 426-4435 • Immediate Emergency Assistance"
+  },
+  {
+    "id": "tick-2",
+    "type": "tip",
+    "text": "Daily Health Wisdom: Remember to brush your pet's teeth with enzymatic paste for longevity."
+  },
+  {
+    "id": "tick-3",
+    "type": "event",
+    "text": "Upcoming Community Event: Autumn Mega Adoption Festival this Saturday • Free Microchipping"
+  },
+  {
+    "id": "tick-4",
+    "type": "wellness",
+    "text": "Hydration Reminder: Ensure fresh, clean filtered water is accessible across multiple cool stations."
+  },
+  {
+    "id": "tick-5",
+    "type": "shelter",
+    "text": "Shelter Update: 14 lovely rescue dogs & bonded cats found their forever homes this week!"
+  }
+]

@@ -1,0 +1,160 @@
+/* ==========================================================================
+   FUREVER CARE — RESPONSIVE MEDIA QUERIES & BREAKPOINTS
+   Fluid responsive adaptation for mobile (320-480px), tablet (768px),
+   laptop (1024px), desktop (1280px), and ultrawide (1440px+)
+   ========================================================================== */
+
+/* Large Desktop (> 1440px) */
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1360px;
+  }
+}
+
+/* Laptops & Tablets Landscape (<= 1024px) */
+@media (max-width: 1024px) {
+  :root {
+    --space-16: 3.5rem;
+    --space-20: 4rem;
+  }
+
+  .grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .hero-container {
+    grid-template-columns: 1fr !important;
+    gap: var(--space-8) !important;
+    text-align: center;
+  }
+
+  .hero-actions {
+    justify-content: center !important;
+  }
+
+  .hero-image-wrapper {
+    margin: 0 auto;
+    max-width: 520px;
+  }
+}
+
+/* Tablets Portrait (<= 768px) */
+@media (max-width: 768px) {
+  .section-padding {
+    padding-top: var(--space-10);
+    padding-bottom: var(--space-10);
+  }
+
+  .container {
+    padding-left: var(--space-4);
+    padding-right: var(--space-4);
+  }
+
+  .grid-2,
+  .grid-3,
+  .grid-4 {
+    grid-template-columns: 1fr;
+    gap: var(--space-4);
+  }
+
+  .nav-desktop-links {
+    display: none !important;
+  }
+
+  .nav-mobile-toggle {
+    display: flex !important;
+  }
+  
+
+  .role-cards-container {
+    grid-template-columns: 1fr !important;
+  }
+
+  .pet-profile-header-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr !important;
+    gap: var(--space-8) !important;
+  }
+
+  .timeline-item {
+    padding-left: var(--space-8) !important;
+  }
+
+  .filter-bar {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+
+  .ticker-item {
+    font-size: var(--text-xs) !important;
+  }
+}
+
+/* Small Mobile Devices (<= 480px) */
+@media (max-width: 480px) {
+  :root {
+    --text-hero: 2.25rem;
+    --text-4xl: 1.75rem;
+    --text-3xl: 1.5rem;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .btn-group-mobile-stack {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero-badges-row {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .modal-container {
+    padding: var(--space-4) !important;
+    width: 95% !important;
+  }
+
+  .mobile-bottom-nav-item span:last-child {
+    font-size: 0.6rem;
+  }
+}
+
+/* ==========================================================================
+   APP-SHELL FEEL — installed / standalone PWA refinements
+   ========================================================================== */
+
+/* When launched from the home screen (no browser chrome), lean fully into
+   the native-app look: extra breathing room for notches & gesture bars. */
+@media (display-mode: standalone), (display-mode: fullscreen) {
+  .mobile-bottom-nav {
+    box-shadow: 0 -10px 32px rgba(30, 18, 64, 0.16);
+  }
+}
+
+/* Larger, thumb-friendly tap targets across the app on touch/mobile widths */
+@media (max-width: 768px) {
+  .btn {
+    min-height: 44px;
+  }
+
+  button,
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  input,
+  textarea,
+  select {
+    font-size: 16px; /* prevents iOS auto-zoom on focus */
+  }
+}

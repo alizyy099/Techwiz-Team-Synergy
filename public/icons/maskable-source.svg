@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="brandGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6C5CE7"/>
+      <stop offset="1" stop-color="#FF6B4A"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" fill="url(#brandGrad)"/>
+  <ellipse cx="24" cy="24" rx="4.4" ry="6.1" fill="#FFFFFF"/>
+  <ellipse cx="40" cy="24" rx="4.4" ry="6.1" fill="#FFFFFF"/>
+  <ellipse cx="17" cy="33" rx="3.9" ry="5.3" fill="#FFFFFF"/>
+  <ellipse cx="47" cy="33" rx="3.9" ry="5.3" fill="#FFFFFF"/>
+  <path d="M24.5 43C24.5 37.5 28 34.5 32 34.5C36 34.5 39.5 37.5 39.5 43C39.5 48.2 35.5 50.8 32 50.8C28.5 50.8 24.5 48.2 24.5 43Z" fill="#FFFFFF"/>
+</svg>

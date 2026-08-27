@@ -1,0 +1,83 @@
+{
+  "hotlines": [
+    {
+      "id": "em-1",
+      "name": "ASPCA Animal Poison Control Center",
+      "phone": "(888) 426-4435",
+      "available": "24 Hours / 365 Days",
+      "feeNote": "Consultation fee may apply",
+      "badge": "Urgent Toxin Response",
+      "icon": "PhoneCall",
+      "description": "Premier animal poison control center in North America for toxic food, plant, medication, and chemical ingestions."
+    },
+    {
+      "id": "em-2",
+      "name": "Pet Poison Helpline (24/7)",
+      "phone": "(855) 764-7661",
+      "available": "24/7 Worldwide",
+      "feeNote": "Licensed veterinary toxicologists",
+      "badge": "Toxicology Experts",
+      "icon": "ShieldAlert",
+      "description": "Immediate expert triage for accidental ingestion of chocolate, xylitol, rodenticides, lilies, or human pharmaceuticals."
+    },
+    {
+      "id": "em-3",
+      "name": "FurEver Care 24/7 Emergency Triage Dispatch",
+      "phone": "(800) 555-PET-911",
+      "available": "24 Hours Local Dispatch",
+      "feeNote": "Toll-Free Immediate Routing",
+      "badge": "Direct Dispatch",
+      "icon": "HeartPulse",
+      "description": "Instant operator routing to the nearest certified 24-hour critical care animal hospital in your region."
+    },
+    {
+      "id": "em-4",
+      "name": "National Lost Pet Recovery Hotline",
+      "phone": "(800) 555-PAWS",
+      "available": "24/7 Automated & Microchip Registry",
+      "feeNote": "Free Service",
+      "badge": "Lost Pet Recovery",
+      "icon": "MapPin",
+      "description": "Rapid microchip scan lookup and shelter alert broadcasting for lost or found pets."
+    }
+  ],
+  "firstAidGuides": [
+    {
+      "condition": "Suspected Toxin Ingestion (Xylitol, Chocolate, Lilies)",
+      "urgency": "Immediate Emergency",
+      "doNow": [
+        "Do NOT induce vomiting unless explicitly instructed by a veterinarian or poison helpline.",
+        "Collect the packaging, wrapper, or plant sample to identify chemical contents.",
+        "Call (888) 426-4435 immediately while traveling to the nearest emergency clinic."
+      ]
+    },
+    {
+      "condition": "Acute Heatstroke (Heavy Panting, Glazed Eyes, Vomiting)",
+      "urgency": "Critical Life Hazard",
+      "doNow": [
+        "Move pet immediately into shade or air conditioning.",
+        "Apply cool (never ice-cold) tap water to paws, groin, and neck.",
+        "Offer small sips of cool water; never force drinking.",
+        "Transport to ER clinic with vehicle AC on high."
+      ]
+    },
+    {
+      "condition": "Severe Bleeding & Open Wound Trauma",
+      "urgency": "High Priority",
+      "doNow": [
+        "Apply firm, direct pressure over the wound using a clean gauze or cotton cloth.",
+        "Maintain continuous pressure for at least 3-5 minutes without lifting the pad.",
+        "Keep the animal warm with a light blanket to combat circulatory shock."
+      ]
+    },
+    {
+      "condition": "Choking & Airway Obstruction",
+      "urgency": "Critical Life Hazard",
+      "doNow": [
+        "Carefully open the mouth to check if an object is visible; swipe only if loose to avoid pushing it deeper.",
+        "For small pets: hold upside down by thighs with gentle back slaps.",
+        "For large pets: perform canine Heimlich by standing behind them and pressing upward behind the ribcage."
+      ]
+    }
+  ]
+}

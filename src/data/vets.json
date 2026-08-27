@@ -1,0 +1,47 @@
+[
+  {
+    "id": "vet-1",
+    "name": "Dr. Eleanor Vance, DVM",
+    "title": "Lead Small Animal Physician & Surgeon",
+    "specialization": "Internal Medicine & Soft Tissue Surgery",
+    "experience": "14+ Years",
+    "clinic": "FurEver Central Veterinary Medical Center",
+    "address": "742 Evergreen Terrace, Suite 100",
+    "phone": "(800) 555-0192",
+    "email": "dr.vance@furevercare.org",
+    "rating": 4.98,
+    "reviewCount": 312,
+    "image": "/images/vet3.jpe",
+    "bio": "Dr. Vance is a board-certified veterinary surgeon passionate about proactive wellness, pain management, and compassionate geriatric pet care."
+  },
+  {
+    "id": "vet-2",
+    "name": "Dr. Ariana Grande, BVSc",
+    "title": "Veterinary Dermatologist & Allergist",
+    "specialization": "Dermatology & Clinical Nutrition",
+    "experience": "10+ Years",
+    "clinic": "Bayside Pet Wellness & Allergy Clinic",
+    "address": "120 Ocean View Boulevard",
+    "phone": "(800) 555-0198",
+    "email": "dr.chen@furevercare.org",
+    "rating": 4.92,
+    "reviewCount": 240,
+    "image": "/images/vet1.jpe",
+    "bio": "Specializing in chronic skin conditions, food intolerances, and targeted therapeutic diets to restore vitality in sensitive dogs and cats."
+  },
+  {
+    "id": "vet-3",
+    "name": "Dr. Aliza Rich, DVM, DACVIM",
+    "title": "Cardiology & Emergency Critical Care",
+    "specialization": "Cardiology & Emergency Medicine",
+    "experience": "12+ Years",
+    "clinic": "Metropolitan 24/7 Animal Emergency Center",
+    "address": "450 Metro Parkway",
+    "phone": "(800) 555-0210",
+    "email": "dr.sophia@furevercare.org",
+    "rating": 4.99,
+    "reviewCount": 405,
+    "image": "/images/vet2.jpe",
+    "bio": "Dedicated to 24/7 emergency response, echocardiography, and complex cardiac management with a gentle bedside manner."
+  }
+]

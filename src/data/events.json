@@ -1,0 +1,38 @@
+[
+  {
+    "id": "event-1",
+    "title": "Autumn 'Paws in the Park' Mega Adoption Festival",
+    "category": "Adoption Drive",
+    "date": "September 12, 2026",
+    "time": "10:00 AM - 04:00 PM",
+    "location": "Magnolia Meadow Park, Seattle, WA",
+    "mapQuery": "Magnolia Meadow Park, Seattle, WA",
+    "description": "Meet over 65 adoptable puppies, cats, and rabbits in a relaxed outdoor setting. Fee-waived adoptions, agility demos, and food trucks.",
+    "badge": "Featured Event",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "event-2",
+    "title": "Free Community Microchip & Rabies Vaccine Drive",
+    "category": "Wellness Camp",
+    "date": "September 26, 2026",
+    "time": "09:00 AM - 01:00 PM",
+    "location": "Downtown Civic Pavilion, Portland, OR",
+    "mapQuery": "Civic Pavilion Portland",
+    "description": "Complimentary microchipping and low-cost core vaccinations provided by licensed FurEver Care volunteer veterinarians.",
+    "badge": "Community Service",
+    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "event-3",
+    "title": "Foster Parent Orientation & Canine First Aid Workshop",
+    "category": "Educational",
+    "date": "October 8, 2026",
+    "time": "02:00 PM - 05:00 PM",
+    "location": "FurEver Learning Annex, Suite 210",
+    "mapQuery": "FurEver Learning Annex",
+    "description": "Hands-on CPR, bandaging techniques, and puppy fostering mentorship for aspiring shelter foster volunteers.",
+    "badge": "Workshop",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=600&q=80"
+  }
+]

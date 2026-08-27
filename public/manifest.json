@@ -1,0 +1,33 @@
+{
+  "name": "FurEver Care — They Deserve Forever Love",
+  "short_name": "FurEver Care",
+  "description": "A premium pet wellness ecosystem for pet parents, veterinarians, and shelters — pet passports, vet booking, adoption and more.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "browser"],
+  "orientation": "portrait-primary",
+  "background_color": "#FBF8FF",
+  "theme_color": "#6C5CE7",
+  "categories": ["lifestyle", "shopping", "health"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

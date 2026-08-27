@@ -1,0 +1,66 @@
+[
+  {
+    "id": "vid-1",
+    "title": "Gentle De-Shedding & Undercoat Brushing Masterclass",
+    "category": "Brushing",
+    "duration": "6:45",
+    "difficulty": "Easy",
+    "thumbnail": "/images/de-shed.jpe",
+    "videoUrl": "https://www.youtube.com/embed/5M8J8wQ5IHQ?si=AhHxjjz4aeFhQjjW",
+    "description": "Learn the proper line-brushing technique to remove dead undercoat without pulling skin or causing brush burn.",
+    "steps": [
+      "Choose a slicker brush and metal greyhound comb.",
+      "Work in small sections starting from the neck toward the tail.",
+      "Always brush in the natural direction of hair growth with gentle wrist strokes.",
+      "Reward your pet with a treat after every completed body quadrant."
+    ]
+  },
+  {
+    "id": "vid-2",
+    "title": "Stress-Free Bathing & Coat Conditioning Routine",
+    "category": "Bathing",
+    "duration": "8:20",
+    "difficulty": "Intermediate",
+    "thumbnail": "/images/clean.jpe",
+    "videoUrl": "https://www.youtube.com/embed/eCl94ji3gxY?si=hEFT0G17WzQbf6wF",
+    "description": "Transform bath time into a calm spa ritual. Covers water temperature, tearless face cleaning, and deep lathering.",
+    "steps": [
+      "Place a non-slip rubber mat in the tub bottom to eliminate slipping anxiety.",
+      "Adjust water to lukewarm (approx 98°F / 37°C).",
+      "Dilute shampoo in a squeeze bottle for effortless distribution without residue.",
+      "Protect ears with cotton balls and rinse thoroughly from head downward."
+    ]
+  },
+  {
+    "id": "vid-3",
+    "title": "Safe Nail Trimming & Quick-Identification Guide",
+    "category": "Trimming",
+    "duration": "5:10",
+    "difficulty": "Moderate",
+    "thumbnail": "/images/nails.jpe",
+    "videoUrl": "https://www.youtube.com/embed/2IVOX8y8UZM?si=9XapszSGTRBgnp9I",
+    "description": "Step-by-step guidance on identifying the nail quick, using guillotine or scissor clippers, and calming nervous paws.",
+    "steps": [
+      "Keep styptic powder or cornstarch within reach before starting.",
+      "Hold the paw firmly but gently, separating individual toes.",
+      "Clip small 2mm slivers at a 45-degree angle rather than one large cut.",
+      "Stop immediately once you see a central white or dark chalky circle."
+    ]
+  },
+  {
+    "id": "vid-4",
+    "title": "Feline & Canine Gentle Ear Cleaning & Hygiene",
+    "category": "Ear & Dental",
+    "duration": "4:30",
+    "difficulty": "Easy",
+    "thumbnail": "/images/ear.jpe",
+    "videoUrl": "https://www.youtube.com/embed/zk1J74RsGho?si=3gKIXOjnJ3OFTm3k",
+    "description": "Prevent yeast and bacterial ear infections using veterinarian-approved drying solutions and cotton pads.",
+    "steps": [
+      "Fill the ear canal with vet-recommended cleanser until liquid is visible.",
+      "Massage the base of the ear for 30 seconds to loosen wax debris.",
+      "Allow your pet to shake their head freely.",
+      "Wipe away dislodged debris with a soft gauze pad; never insert cotton swabs."
+    ]
+  }
+]

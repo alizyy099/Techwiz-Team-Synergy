@@ -1,0 +1,46 @@
+[
+  {
+    "id": "post-1",
+    "title": "Deciphering Your Pet's Body Language: Tails, Ears & Micro-Expressions",
+    "category": "Behavior & Psychology",
+    "readTime": "5 min read",
+    "date": "August 20, 2026",
+    "author": "Dr. Clara Hastings",
+    "image": "/images/pet-blog3.jpe",
+    "excerpt": "A wagging tail doesn't always signal joy. Learn how ear angles, pupil dilation, and tail posture reveal true emotional states.",
+    "content": "Companion animals communicate continuously through nuanced postures. While a loose, broad horizontal wag usually conveys friendly greeting, a stiff, high-frequency vertical tail vibration can signal arousal or defensive tension. In felines, a slow swishing tail often indicates rising frustration, whereas an upright tail with a slight forward tip is the feline equivalent of a warm handshake. Paying attention to these signals fosters deep trust and prevents fear-based reactivity."
+  },
+  {
+    "id": "post-2",
+    "title": "The Golden Years: 5 Crucial Adjustments for Senior Dogs & Cats",
+    "category": "Geriatric Care",
+    "readTime": "6 min read",
+    "date": "August 14, 2026",
+    "author": "Dr. Eleanor Vance",
+    "image": "/images/pet-blog4.jpg",
+    "excerpt": "How subtle orthopedic adaptations, night lighting, and bi-annual blood screens can add years of joyful comfort to older companions.",
+    "content": "As our beloved pets cross into their senior years (typically age 7+ for medium dogs and cats), their physiological requirements shift noticeably. Installing runners or rugs across slippery hardwood floors prevents painful hip slips. Raised food bowls reduce strain on arthritic cervical spines. Most importantly, bi-annual veterinary wellness blood panels can catch renal insufficiency or thyroid changes months before clinical symptoms manifest."
+  },
+  {
+    "id": "post-3",
+    "title": "The Gut-Skin Axis in Pets: How Nutrition Resolves Chronic Itching",
+    "category": "Nutrition & Dermatology",
+    "readTime": "4 min read",
+    "date": "July 29, 2026",
+    "author": "Dr. Marcus Chen",
+    "image": "/images/pet-blog1.jpe",
+    "excerpt": "Red paws, chronic ear wax, and incessant licking often stem from gut dysbiosis rather than seasonal contact allergies.",
+    "content": "The canine and feline intestinal mucosal barrier houses over 70% of the immune system. When the delicate microbiome is disrupted by low-quality fillers, excessive processing heat, or antibiotic cycles, systemic inflammation manifests externally through the skin barrier. Integrating bioavailable marine omega-3s (EPA/DHA) and single-protein hypoallergenic sources frequently produces remarkable dermatological recovery."
+  },
+  {
+    "id": "post-4",
+    "title": "Home First-Aid Essentials: Building a Comprehensive Pet Emergency Kit",
+    "category": "Safety & First Aid",
+    "readTime": "7 min read",
+    "date": "July 18, 2026",
+    "author": "Dr. Ronald Evans",
+    "image": "/images/pet-blod2.jpe",
+    "excerpt": "Everything you need in your pet first aid kit: self-adhering bandages, digital rectal thermometer, saline wash, and muzzle wraps.",
+    "content": "In a sudden crisis, having dedicated pet first-aid supplies ready can prevent shock and hemorrhage during transit to the veterinary ER. Key items include self-adherent cohesive wrap (which sticks to itself without pulling fur), sterile eyewash solution, blunt-tip stainless scissors, a tick removal tool, and styptic powder. Keep a card with your pet's vaccination record, microchip ID, and emergency vet phone number taped inside the kit lid."
+  }
+]

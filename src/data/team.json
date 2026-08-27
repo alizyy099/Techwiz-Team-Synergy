@@ -1,0 +1,34 @@
+[
+  {
+    "id": "team-1",
+    "name": "Dr. Clara Hastings, DVM",
+    "role": "Founder & Chief Veterinary Officer",
+    "credentials": "Cornell University DVM • 18 Years Experience",
+    "image": "/images/blog1.jpe",
+    "bio": "Founded FurEver Care to eliminate barriers between pet guardians, proactive veterinary medicine, and ethical shelter adoption."
+  },
+  {
+    "id": "team-2",
+    "name": "Julian Montgomery",
+    "role": "Director of Shelter Alliances & Foster Networks",
+    "credentials": "Master of Animal Welfare Science",
+    "image": "/images/blog2.webp",
+    "bio": "Oversees partnerships with 120+ community shelters, standardizing humane care protocols and modern adoption matching."
+  },
+  {
+    "id": "team-3",
+    "name": "Maya Sterling, MS, VTS",
+    "role": "Head of Clinical Nutrition & Wellness",
+    "credentials": "Board Certified Veterinary Nutritionist",
+    "image": "/images/blog4.jpg",
+    "bio": "Develops evidence-based nutrition calculators, elimination diets, and preventative feeding programs for domestic companion animals."
+  },
+  {
+    "id": "team-4",
+    "name": "Dr. Liya Evans, DVM",
+    "role": "Emergency Medicine Lead",
+    "credentials": "ACVECC Residency • Critical Care Specialist",
+    "image": "/images/blog3.jpg",
+    "bio": "Leads our 24/7 triage guidance network and writes rapid-response medical protocols for unexpected pet health crises."
+  }
+]

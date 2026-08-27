@@ -1,0 +1,86 @@
+{
+  "careOptions": [
+    {
+      "id": "feeding",
+      "label": "Feeding",
+      "icon": "bi-egg-fried"
+    },
+    {
+      "id": "water",
+      "label": "Water",
+      "icon": "bi-droplet-fill"
+    },
+    {
+      "id": "grooming",
+      "label": "Grooming",
+      "icon": "bi-scissors"
+    },
+    {
+      "id": "bath",
+      "label": "Bath Time",
+      "icon": "bi-water"
+    },
+    {
+      "id": "medicine",
+      "label": "Medicine",
+      "icon": "bi-capsule"
+    },
+    {
+      "id": "checkup",
+      "label": "Health Checkup",
+      "icon": "bi-heart-pulse"
+    },
+    {
+      "id": "appointment",
+      "label": "Vet Appointment",
+      "icon": "bi-calendar-check"
+    },
+    {
+      "id": "playtime",
+      "label": "Fun & Playtime",
+      "icon": "bi-balloon"
+    },
+    {
+      "id": "walk",
+      "label": "Walk",
+      "icon": "bi-person-walking"
+    },
+    {
+      "id": "training",
+      "label": "Training",
+      "icon": "bi-award"
+    }
+  ],
+  "percentageRemarks": [
+    {
+      "min": 0,
+      "max": 19,
+      "title": "Needs Attention",
+      "message": "Your pet's care routine needs more attention today."
+    },
+    {
+      "min": 20,
+      "max": 49,
+      "title": "Getting Started",
+      "message": "Good start! Try completing a few more care activities."
+    },
+    {
+      "min": 50,
+      "max": 74,
+      "title": "Doing Well",
+      "message": "Your pet is getting good care. Keep the routine going!"
+    },
+    {
+      "min": 75,
+      "max": 89,
+      "title": "Great Care",
+      "message": "Excellent progress! Your pet is having a healthy routine."
+    },
+    {
+      "min": 90,
+      "max": 100,
+      "title": "Outstanding Care",
+      "message": "Amazing! Your pet's care routine is looking excellent."
+    }
+  ]
+}

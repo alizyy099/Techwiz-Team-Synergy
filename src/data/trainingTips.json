@@ -1,0 +1,41 @@
+[
+  {
+    "id": "train-1",
+    "title": "Positive Reinforcement & Clicker Timing Fundamentals",
+    "category": "Foundations",
+    "difficulty": "Beginner",
+    "icon": "Award",
+    "summary": "Reward desired behaviors within 1.5 seconds so your dog creates an immediate mental association between the action and the treat.",
+    "coreSteps": [
+      "Charge the marker: Pair the clicker sound (or verbal 'Yes!') with an instant high-value treat 15 times.",
+      "Capture natural behaviors: Wait for the pet to sit or lie down on their own, mark immediately, and reward.",
+      "Phase out continuous food rewards gradually with praise and toy play once reliability exceeds 90%."
+    ]
+  },
+  {
+    "id": "train-2",
+    "title": "Loose-Leash Walking & Scent-Walk Harmony",
+    "category": "Behavioral",
+    "difficulty": "Intermediate",
+    "icon": "Compass",
+    "summary": "Transform pulling into polite pacing by turning walks into a cooperative dialogue rather than a tug-of-war.",
+    "coreSteps": [
+      "The 'Tree Technique': The instant tension is felt on the leash, freeze in place like a tree trunk.",
+      "Wait for the dog to look back or slacken the leash, then immediately mark and step forward.",
+      "Incorporate dedicated 'Sniffari' zones where your dog is allowed to explore scents freely."
+    ]
+  },
+  {
+    "id": "train-3",
+    "title": "Separation Confidence & Crate Cozy Association",
+    "category": "Emotional Well-being",
+    "difficulty": "All Levels",
+    "icon": "Heart",
+    "summary": "Build emotional resilience when pets are home alone by creating cozy routines and safe nesting environments.",
+    "coreSteps": [
+      "Feed all meals and frozen stuffed Kong toys inside the open-door crate.",
+      "Practice departing for 30 seconds, 2 minutes, and 5 minutes without dramatic farewell goodbyes.",
+      "Leave relaxing classical music or a gentle white noise machine running near their sleeping space."
+    ]
+  }
+]

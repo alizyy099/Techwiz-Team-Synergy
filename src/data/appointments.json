@@ -1,0 +1,79 @@
+[
+  {
+    "id": "slot-1",
+    "vetId": "vet-1",
+    "vetName": "Dr. Eleanor Vance",
+    "date": "2026-08-26",
+    "time": "09:00 AM - 09:45 AM",
+    "type": "General Wellness Checkup",
+    "status": "Booked",
+    "patient": "Max (Golden Retriever)",
+    "room": "Exam Suite A"
+  },
+  {
+    "id": "slot-2",
+    "vetId": "vet-1",
+    "vetName": "Dr. Eleanor Vance",
+    "date": "2026-08-26",
+    "time": "10:15 AM - 11:00 AM",
+    "type": "Vaccination Booster & Microchip",
+    "status": "Available",
+    "patient": null,
+    "room": "Exam Suite A"
+  },
+  {
+    "id": "slot-3",
+    "vetId": "vet-1",
+    "vetName": "Dr. Eleanor Vance",
+    "date": "2026-08-26",
+    "time": "01:30 PM - 02:15 PM",
+    "type": "Post-Op Surgery Follow-up",
+    "status": "Booked",
+    "patient": "Luna (Siamese Cat)",
+    "room": "Surgical Consult Room"
+  },
+  {
+    "id": "slot-4",
+    "vetId": "vet-1",
+    "vetName": "Dr. Eleanor Vance",
+    "date": "2026-08-26",
+    "time": "03:00 PM - 03:45 PM",
+    "type": "Senior Pet Vitality Screening",
+    "status": "Available",
+    "patient": null,
+    "room": "Exam Suite A"
+  },
+  {
+    "id": "slot-5",
+    "vetId": "vet-2",
+    "vetName": "Dr. Marcus Chen",
+    "date": "2026-08-26",
+    "time": "11:00 AM - 11:45 AM",
+    "type": "Allergy & Skin Cytology Review",
+    "status": "Booked",
+    "patient": "Charlie (French Bulldog)",
+    "room": "Derm Suite 2"
+  },
+  {
+    "id": "slot-6",
+    "vetId": "vet-2",
+    "vetName": "Dr. Marcus Chen",
+    "date": "2026-08-26",
+    "time": "02:00 PM - 02:45 PM",
+    "type": "Nutritional Elimination Diet Plan",
+    "status": "Available",
+    "patient": null,
+    "room": "Derm Suite 2"
+  },
+  {
+    "id": "slot-7",
+    "vetId": "vet-3",
+    "vetName": "Dr. Sophia Al-Mansoor",
+    "date": "2026-08-26",
+    "time": "04:30 PM - 05:15 PM",
+    "type": "Cardiac Echocardiogram Evaluation",
+    "status": "Available",
+    "patient": null,
+    "room": "Cardio Echo Bay"
+  }
+]
